@@ -5,7 +5,7 @@ Loan EMI Analysis using Excel
 # Excel Loan Analysis Project
 
 ## 📊 Dashboard Preview
-![Dashboard](Loan_Anakysis_Tracker.jpeg)
+![Dashboard](Loan Analysis Tracker.jpeg)
 
 ## Objective
 To compare loan offers from different banks and select the best option based on EMI and total cost.
