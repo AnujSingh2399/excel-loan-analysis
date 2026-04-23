@@ -1,11 +1,11 @@
 # excel-loan-analysis
-Loan EMI Analysis using Excel
+
 ![Repo Size](https://img.shields.io/github/repo-size/AnujSingh2399/excel-loan-analysis)
 
 # Excel Loan Analysis Project
 
 ## 📊 Dashboard Preview
-![Dashboard](Loan Analysis Tracker.jpeg)
+![Dashboard](Loan_Analysis_Tracker.jpeg)
 
 ## Objective
 To compare loan offers from different banks and select the best option based on EMI and total cost.
